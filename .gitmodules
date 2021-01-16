@@ -17,3 +17,8 @@
 	path = sisinfo-odoo/electronic_invoice
 	url = git@github.com:sisinfo-odoo/electronic_invoice.git
 	branch = 13.0
+
+[submodule "ingadhoc/aeroo_reports"]
+	path = ingadhoc/aeroo_reports
+	url = git@github.com:ingadhoc/aeroo_reports.git
+	branch = 13.0
