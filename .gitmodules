@@ -7,3 +7,8 @@
 	path = sisinfo-odoo/multimoneda
 	url = git@github.com:sisinfo-odoo/multimoneda.git
 	branch = 13.0
+
+[submodule "sisinfo-odoo/popup_message"]
+	path = sisinfo-odoo/popup_message
+	url = git@github.com:sisinfo-odoo/popup_message.git
+	branch = 13.0
