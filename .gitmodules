@@ -1,0 +1,4 @@
+[submodule "sisinfo-odoo/l10n_uy_extras"]
+	path = sisinfo-odoo/l10n_uy_extras
+	url = git@github.com:sisinfo-odoo/l10n_uy_extras.git
+	branch = 13.0
