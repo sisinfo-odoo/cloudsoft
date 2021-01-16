@@ -12,3 +12,8 @@
 	path = sisinfo-odoo/popup_message
 	url = git@github.com:sisinfo-odoo/popup_message.git
 	branch = 13.0
+
+[submodule "sisinfo-odoo/electronic_invoice"]
+	path = sisinfo-odoo/electronic_invoice
+	url = git@github.com:sisinfo-odoo/electronic_invoice.git
+	branch = 13.0
