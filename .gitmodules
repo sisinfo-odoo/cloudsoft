@@ -2,3 +2,8 @@
 	path = sisinfo-odoo/l10n_uy_extras
 	url = git@github.com:sisinfo-odoo/l10n_uy_extras.git
 	branch = 13.0
+
+[submodule "sisinfo-odoo/multimoneda"]
+	path = sisinfo-odoo/multimoneda
+	url = git@github.com:sisinfo-odoo/multimoneda.git
+	branch = 13.0
