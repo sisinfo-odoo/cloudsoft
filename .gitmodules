@@ -47,3 +47,8 @@
 	path = OCA/account-financial-tools
 	url = git@github.com:OCA/account-financial-tools.git
 	branch = 13.0
+
+[submodule "sisinfo-odoo/account_check_custom"]
+	path = sisinfo-odoo/account_check_custom
+	url = git@github.com:sisinfo-odoo/account_check_custom.git
+	branch = 13.0
