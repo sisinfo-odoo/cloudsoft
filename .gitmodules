@@ -42,3 +42,8 @@
 	path = sisinfo-odoo/carpeta_importaciones_req
 	url = git@github.com:sisinfo-odoo/carpeta_importaciones_req.git
 	branch = 13.0
+
+[submodule "OCA/account-financial-tools"]
+	path = OCA/account-financial-tools
+	url = git@github.com:OCA/account-financial-tools.git
+	branch = 13.0
