@@ -52,3 +52,8 @@
 	path = sisinfo-odoo/account_check_custom
 	url = git@github.com:sisinfo-odoo/account_check_custom.git
 	branch = 13.0
+
+[submodule "sisinfo-odoo/formularios_dgi"]
+	path = sisinfo-odoo/formularios_dgi
+	url = git@github.com:sisinfo-odoo/formularios_dgi.git
+	branch = 13.0
