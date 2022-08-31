@@ -57,3 +57,8 @@
 	path = sisinfo-odoo/formularios_dgi
 	url = git@github.com:sisinfo-odoo/formularios_dgi.git
 	branch = 13.0
+
+[submodule "sisinfo-odoo/integ_remito_oe"]
+	path = sisinfo-odoo/integ_remito_oe
+	url = git@github.com:sisinfo-odoo/integ_remito_oe.git
+	branch = 13.0_staging
