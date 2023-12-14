@@ -67,3 +67,8 @@
 	path = sisinfo-odoo/stock_custom
 	url = git@github.com:sisinfo-odoo/stock_custom.git
 	branch = 13.0_cloudsoft_staging
+
+[submodule "sisinfo-odoo/coste_me"]
+	path = sisinfo-odoo/coste_me
+	url = git@github.com:sisinfo-odoo/coste_me.git
+	branch = 13.0_cloudsoft_staging
