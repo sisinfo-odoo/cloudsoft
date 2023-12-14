@@ -62,3 +62,8 @@
 	path = sisinfo-odoo/integ_remito_oe
 	url = git@github.com:sisinfo-odoo/integ_remito_oe.git
 	branch = 13.0_staging
+
+[submodule "sisinfo-odoo/stock_custom"]
+	path = sisinfo-odoo/stock_custom
+	url = git@github.com:sisinfo-odoo/stock_custom.git
+	branch = 13.0_cloudsoft_staging
