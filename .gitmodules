@@ -72,3 +72,8 @@
 	path = sisinfo-odoo/coste_me
 	url = git@github.com:sisinfo-odoo/coste_me.git
 	branch = 13.0_cloudsoft_staging
+
+[submodule "sisinfo-odoo/multimoneda_bi"]
+	path = sisinfo-odoo/multimoneda_bi
+	url = git@github.com:sisinfo-odoo/multimoneda_bi.git
+	branch = 13.0_cloudsoft_staging
