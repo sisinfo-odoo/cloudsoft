@@ -62,3 +62,8 @@
 	path = sisinfo-odoo/integ_remito_oe
 	url = git@github.com:sisinfo-odoo/integ_remito_oe.git
 	branch = 13.0
+
+[submodule "sisinfo-odoo/integ_electronic_invoice"]
+	path = sisinfo-odoo/integ_electronic_invoice
+	url = git@github.com:sisinfo-odoo/integ_electronic_invoice.git
+	branch = 13.0_cloudsoft_main
